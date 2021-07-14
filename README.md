@@ -31,7 +31,7 @@ It takes some time to keep it all for your convenience, so maybe spare $1, so I 
 You don't have to use pre-build binaries I provider. You can build it locally on your trusted machine.
 
 ```
-$ git clone https://github.com/krzyzanowskim/OpenSSL.git
+$ git clone https://github.com/tokend/OpenSSL.git
 $ cd OpenSSL
 $ make
 ```
@@ -55,7 +55,7 @@ dependencies: [
 ### CocoaPods
 
 ````
-pod 'OpenSSL-Universal'
+pod 'DLOpenSSL'
 ````
 
 ### Carthage
